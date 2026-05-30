@@ -1,0 +1,7 @@
+- Javascript 
+- react js
+- vue js
+- typescript
+- python
+- Swift 
+- golang 
